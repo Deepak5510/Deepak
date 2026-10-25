@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680" width="100%" height="100%">
+  <defs>
+    <linearGradient id="sustainBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="680" fill="url(#sustainBg)"/>
+
+  <!-- Border & Frames -->
+  <rect x="25" y="25" width="950" height="630" fill="none" stroke="#e2e8f0" stroke-width="2" rx="8"/>
+  <rect x="35" y="35" width="930" height="610" fill="none" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="4 4" rx="6"/>
+
+  <!-- Top Header: SNS College Logo & Accreditations -->
+  <g transform="translate(60, 50)">
+    <!-- Shield Logo -->
+    <circle cx="30" cy="30" r="28" fill="#1e3a8a" stroke="#d97706" stroke-width="2"/>
+    <text x="30" y="36" text-anchor="middle" fill="#ffffff" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="11" font-weight="800">SNS</text>
+  </g>
+
+  <!-- Right Badges -->
+  <g transform="translate(850, 50)">
+    <rect x="0" y="0" width="90" height="30" rx="4" fill="#fef3c7" stroke="#d97706" stroke-width="1"/>
+    <text x="45" y="19" text-anchor="middle" fill="#b45309" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="11" font-weight="800">3P Culture</text>
+  </g>
+
+  <!-- College Heading -->
+  <text x="500" y="80" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="30" font-weight="800" fill="#0f172a" letter-spacing="1">SNS COLLEGE OF ENGINEERING</text>
+  <text x="500" y="105" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="14" font-weight="600" fill="#475569">An Autonomous Institution</text>
+  <text x="500" y="125" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="12" fill="#64748b">Approved by AICTE, New Delhi &amp; Affiliated to Anna University, Chennai</text>
+  <text x="500" y="152" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a8a">Department of Computer Science and Design</text>
+
+  <!-- Certificate Ribbon Title -->
+  <g transform="translate(350, 180)">
+    <rect x="0" y="0" width="300" height="46" rx="6" fill="#fef3c7" stroke="#fde68a" stroke-width="1.5"/>
+    <text x="150" y="22" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="20" font-weight="800" fill="#0f172a" letter-spacing="3">CERTIFICATE</text>
+    <text x="150" y="38" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="11" font-weight="700" fill="#d97706" letter-spacing="2">OF PARTICIPATION</text>
+  </g>
+
+  <text x="500" y="260" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="13" font-weight="600" fill="#64748b" letter-spacing="1">THIS CERTIFICATE IS PROUDLY PRESENTED TO</text>
+
+  <!-- Recipient Name -->
+  <text x="500" y="325" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="32" font-weight="800" fill="#0f172a">DEEPAK. P</text>
+  <text x="500" y="360" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a8a">OF KSR INSTITUTE FOR ENGINEERING &amp; TECHNOLOGY</text>
+  <line x1="200" y1="380" x2="800" y2="380" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- Event -->
+  <text x="500" y="425" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="15" fill="#334155">
+    FOR PARTICIPATING IN <tspan font-weight="800" fill="#0f172a">SUSTAIN-A-THON</tspan>
+  </text>
+  <text x="500" y="455" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="14" font-weight="600" fill="#64748b">
+    ON 16.04.2025 - 17.04.2025.
+  </text>
+
+  <!-- Signatories -->
+  <g transform="translate(180, 540)">
+    <text x="80" y="20" text-anchor="middle" font-family="'Brush Script MT', cursive" font-size="22">B. Anuradha</text>
+    <line x1="10" y1="35" x2="150" y2="35" stroke="#94a3b8" stroke-width="1"/>
+    <text x="80" y="55" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="12" font-weight="800" fill="#0f172a">Dr. B. ANURADHA</text>
+    <text x="80" y="70" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="11" fill="#64748b">HOD | CSD</text>
+  </g>
+
+  <g transform="translate(420, 540)">
+    <text x="80" y="20" text-anchor="middle" font-family="'Brush Script MT', cursive" font-size="22">R. Sudhakaran</text>
+    <line x1="10" y1="35" x2="150" y2="35" stroke="#94a3b8" stroke-width="1"/>
+    <text x="80" y="55" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="12" font-weight="800" fill="#0f172a">Dr. R. SUDHAKARAN</text>
+    <text x="80" y="70" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="11" fill="#64748b">VICE PRINCIPAL</text>
+  </g>
+
+  <g transform="translate(660, 540)">
+    <text x="80" y="20" text-anchor="middle" font-family="'Brush Script MT', cursive" font-size="22">S. Charles</text>
+    <line x1="10" y1="35" x2="150" y2="35" stroke="#94a3b8" stroke-width="1"/>
+    <text x="80" y="55" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="12" font-weight="800" fill="#0f172a">Dr. S. CHARLES</text>
+    <text x="80" y="70" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="11" fill="#64748b">PRINCIPAL</text>
+  </g>
+</svg>
